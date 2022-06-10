@@ -12,6 +12,8 @@
 
 
 
+This project provides FL category inference attack code on MNIST datasets, including noise-logger strategy.  If you need additional code in the paper, you can contact us by emailing or making an issue. 
+
 ## Requirements
 
 * Python >=3.6
